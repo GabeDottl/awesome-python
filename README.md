@@ -1217,9 +1217,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [grab](https://github.com/lorien/grab) - Site scraping framework.
 * [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
-* [robobrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+* [robobrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser. Last update (as of 4/20): 2015.
 * [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
-* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
+* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.  Update (as of 4/20): No longer supported by scrapinghub as of 6/19.
 
 ## Web Frameworks
 
